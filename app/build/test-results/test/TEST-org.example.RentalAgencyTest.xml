@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RentalAgencyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-29T15:06:07" hostname="MYPC" time="0.06">
+  <properties/>
+  <testcase name="testRentVehicle()" classname="org.example.RentalAgencyTest" time="0.06"/>
+  <system-out><![CDATA[Vehicle added: Corvette
+Car1 rented to Loica
+Transaction created: id1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
